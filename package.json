@@ -1,0 +1,15 @@
+{
+  "name": "vitest-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "LQS",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.12.6"
+  }
+}
